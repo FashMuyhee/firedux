@@ -1,0 +1,24 @@
+{
+  "short_name": "FireDux",
+  "name": "Firebase Redux",
+  "lang" : "english",
+  "orientation" : "portrait",
+  "description" : "...",
+  "icons": [
+    {
+      "src": "icon-1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {  
+      "src": "icon-2.png",  
+      "sizes": "512x512",  
+      "type": "image/png"  
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ff4081",
+  "background_color": "#ffffff"
+  
+}
